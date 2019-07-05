@@ -1,2 +1,2 @@
 # ctrn
-vestizione della ctrn secondo specifiche
+vestizione della ctrn secondo specifiche della Regione Veneto
